@@ -4,6 +4,8 @@
 
 - Created by Dustin Bench on 9/11/17
 - Version 1.0
+
+- This script is still a work in progress
 """
 
 import sys
